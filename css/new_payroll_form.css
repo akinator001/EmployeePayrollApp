@@ -145,6 +145,7 @@ select{
     opacity: 1;
     background: transparent;
     border: none;
+    background-color: #E2E2E2;
     font-weight: 400;
     min-width: 140px;
     padding: 7px 7px;
@@ -153,8 +154,8 @@ select{
 }
 
 .submitButton{
-    border: none;
-    background-color: #f5f5f5;
+    border: 1px solid;
+    background-color: #E2E2E2;
     margin-right: 30px;
 }
 
